@@ -1,2 +1,2 @@
 # IA-Prolog
-Fichas de prolog de IA (tem repetias)
+Fichas de prolog de IA (tem repetias e n)
